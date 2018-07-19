@@ -1,4 +1,5 @@
 # sample.ant
+```
 <target name="hash">
   <checksum todir="x" format="MD5SUM" totalproperty="sum.of.all">
     <fileset dir="x"/>
@@ -24,3 +25,4 @@ http://llbit.se/?p=1876
 https://ant.apache.org/manual/Tasks/move.html
 
 https://stackoverflow.com/questions/5220271/multiple-renaming-using-ant-script
+```

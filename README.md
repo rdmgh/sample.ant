@@ -1,5 +1,6 @@
 # sample.ant
 ```
+https://answers.splunk.com/answers/11350/2-searches-1-chart.html
 <target name="hash">
   <checksum todir="x" format="MD5SUM" totalproperty="sum.of.all">
     <fileset dir="x"/>

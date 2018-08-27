@@ -36,4 +36,8 @@ https://www.youtube.com/watch?time_continue=1&v=P6rwKHnXUJI
 https://www.jhipster.tech/
 https://www.youtube.com/watch?v=aA4tfBGY6jY
 
+https://vsts-deploy-guide.readthedocs.io/en/latest/patterns/
+https://www.youtube.com/watch?v=wOCDyv4k4vA
+greenlighting
+
 ```

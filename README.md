@@ -40,4 +40,9 @@ https://vsts-deploy-guide.readthedocs.io/en/latest/patterns/
 https://www.youtube.com/watch?v=wOCDyv4k4vA
 greenlighting
 
+https://speakerdeck.com/turingfest
+https://speakerdeck.com/turingfest/jim-newbery-how-to-survive-the-single-page-app-ocalypse-turing-fest-2018?slide=73
+http://lauravandoore.com/what-rock-climbing-can-teach-us-about-ux-life/
+https://medium.com/cto-craft/from-zero-to-cto-james-crowley-is-in-the-spotlight-7cf8ff1caac8
+
 ```

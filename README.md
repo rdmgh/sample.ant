@@ -1,5 +1,8 @@
 # sample.ant
 ```
+https://medium.com/lightrail/prevent-business-intelligence-leaks-by-using-uuids-instead-of-database-ids-on-urls-and-in-apis-17f15669fd2e
+https://dev.to/dangolant/o11ycon-2018-notes-and-observations-4nbf
+https://medium.com/@ckoster22/why-your-company-should-be-doing-lightning-talks-c84b32e8f82b
 https://answers.splunk.com/answers/11350/2-searches-1-chart.html
 <target name="hash">
   <checksum todir="x" format="MD5SUM" totalproperty="sum.of.all">
